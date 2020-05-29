@@ -32,3 +32,6 @@ If you can dare, this is a great way to destroy your Arduino ;)
    this code, please feel free to submit a pull request.
 2. Feel free to ask.
 
+### GamePlay
+![](https://github.com/riteshharjani/Arduino_Game_8x8_Matrix_Arcade_Atari_Breakout/blob/master/GamePlay.gif?raw=true)
+
